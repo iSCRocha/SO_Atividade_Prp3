@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Multiplicação de Fibonacci</string>
+    <string name="digite_termos">Digite a quantidade de termos da sequência Fibonacci que deseja multiplicar:</string>
+    <string name="calcular">Calcular</string>
+    <string name="maior_que_nove">O número digitado deve ser menor que 10! \nTente novamente</string>
+    <string name="menor_que_tres">O número digitado deve ser maior que 2! \nTente novamente</string>
+    <string name="resultado">Resultado:</string>
+    <string name="zero">0</string>
+    <string name="mudar_tema">Mudar tema</string>
+    <string name="sobre_app">Sobre</string>
+    <string name="fechar">Fechar</string>
+    <string name="titulo_atividade">Sobre o app</string>
+    <string name="descricao_atividade">\nO intuito desta aplicação é calcular e exibir a multiplicação de determinada quantidade de termos da sequência de Fibonacci.\n\n 1) Como usar: \n\n - Digite um número maior que 2 e menor que 10 no campo especificado;\n\n - Toque em "Calcular".\n\n 2) Como mudar o tema da aplicação:\n\n - Toque no ícone em formato de sol no canto superior direito da tela.\n\n </string>
+    <string name="titulo_fibonacci">O que é a sequência Fibonacci?</string>
+    <string name="descricao_fibonacci">\nSequência de Fibonacci é uma série de números crescente e infinita, formada apenas por números naturais.\n\n Estes são os primeiros 11 termos da sequência: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ...\n\n\n - O número de ouro: \n\n Ao dividir um número da sequência Fibonacci pelo número antecessor da sequência, chega-se a valores sempre próximos de 1,618.\n O Phi, como é chamado, é considerado um número áureo (ou de ouro). Quanto mais se avança na sequência Fibonacci, ou seja, quanto mais altos os números, mais próximo de Phi será sua proporção.</string>
+</resources>
